@@ -1,26 +1,28 @@
 # Project-1
 This is the repository for project 1. It going to show the sales of cars in Mexico.
 
-ESCENARIO DEL PROYECTO
-Somos una empresa de consultoría especializada en industria automotriz.
-Una armadora automotriz de origen chino nos está contratando para asesorarlos, ya que quieren introducir su marca este año.
-El objetivo es proveer a la compañía conclusiones que les permita tener mayor certeza al momento de lanzar su marca en el mercado mexicano.
+PROJECT SCENARIO
+We are a Consulting group with high knowldege of the automotive industry
+A company from china wants to be asses to know the market and introduce some products into the market.
+The objective is give market conclusions to the company so they can launch their products with better understanding of the automotive market in mexico. 
 
-PREGUNTAS POR RESOLVER:
+MAIN QUESTIONS TO ANSWER:
 
-5) MERCADO ¿Cómo ha evolucionado el volumen de vehículos vendidos a lo largo de los años? EDGAR
+- MARKET - How has the market evolved in volume of vehicules sold?
+- MAIN BRANDS IN MEXICO- Who has the domain in the market, and what segments are their involve
+- Market composition over time has the main brands lost control or the maintain it.
+-  Which are the most sold models in Mexico?
+-  Which segments are more relevant, and has this change through time?
+-  How much of the market is locally produced and how much is imported
+-  How has the sourcing through time has changed- 
 
-1) MARCAS ¿Que marcas dominan el mercado mexicano? MARCOS
-
-    ejemplo de vehiculos por segmento
-
-6) ¿Cómo ha evolucionado la composición de segmentos a lo largo de los años? JOSE
-
-
-
-2) ¿Cuáles son los modelos más vendidos en México? ANGELES
-3) ¿Cuáles son los segmentos de mayor relevancia? ALEJANDRO
-4) ¿Qué proporción de venta de vehículos son producidos localmente e importados? JOSE
+This was a collaborative project between various accounts mentioned after this:
+    AngelesVillagrana
+    Marcos 25090
+    jrobertofg
+    LuisEdgar91
+    adelalama
+In the file you will find different graphs and tables used to anwser the questions on top there is a PPT also aded where you can see the main conclusions, and graphs obtained by this project. 
 
 
-7) ¿Cómo ha evolucionado el sourcing de los vehículos a lo largo del tiempo? MARCOS
+    
